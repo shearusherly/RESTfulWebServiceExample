@@ -1,8 +1,5 @@
 package org.arpit.javapostsforlearning.webservices;
- 
-/**
-* @author Arpit Mandliya
-*/
+
  
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
